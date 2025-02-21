@@ -76,6 +76,15 @@ This project focuses on creating a **Receiver Module** for an RF-based wireless 
 
 ---
 
+## 🔧 Circuit Diagram
+1. **Schematic**  
+   ![Schematic](https://github.com/khushimittal20/RF-Wireless-Gas-Leak-Detection-Alert-System-Receiver/blob/main/schematic_image.png)
+
+3. **PCB**  
+   ![PCB](https://github.com/khushimittal20/RF-Wireless-Gas-Leak-Detection-Alert-System-Receiver/blob/main/pcb_image.png)
+
+---
+
 ## 💾 Arduino Code Overview
 
 - **Libraries Used:**
